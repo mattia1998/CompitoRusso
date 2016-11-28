@@ -8,5 +8,6 @@ int main()
 		cout << "\n" << i << endl;
 	}
 	
+	system("PAUSE");
 	return 0;
 }
