@@ -9,6 +9,6 @@ int main()
 		cout << "\n" << i << endl;
 	}
 	
-	system("PAUSE");
+	system("PAUSE"); //commento FIX_BUG
 	return 0;
 }
